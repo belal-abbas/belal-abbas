@@ -1,16 +1,75 @@
-## Hi there 👋
+![Data Animation](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
-<!--
-**belal-abbas/belal-abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Student | Data Analysis & Visualization Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 A little bit about me
+
+🎓 &nbsp;I'm a Computer Science student with a strong interest in data analysis and databases.  
+🌱 &nbsp;Currently learning **SQL, Excel, Power BI, Tableau, Python**, and **Database Design (ERD & Mapping)**.  
+📊 &nbsp;I enjoy turning raw data into clear insights and meaningful dashboards.  
+🤝 &nbsp;Open to collaboration on beginner and intermediate data analysis projects.  
+
+---
+
+## 🔭 I’m currently working on
+- Data Analysis projects using **Excel & SQL**
+- Building dashboards with **Power BI & Tableau**
+- Designing databases using **ERD & Database Mapping**
+- Learning **Python** for data analysis and automation
+
+---
+
+## 🌱 I’m currently learning
+- Advanced SQL queries & joins
+- Data visualization best practices
+- Power BI & Tableau dashboards
+- Excel for data analysis
+- ERD & Database Mapping concepts
+
+---
+
+## 👯 I’m looking to collaborate on
+- Data Analysis projects
+- Power BI & Tableau dashboards
+- SQL database design
+- ERD & Database Mapping projects
+- Python-based data projects
+
+---
+
+## 🤝 I'm looking for help with
+- Advanced SQL optimization
+- Improving dashboard design
+- Best practices in data analysis projects
+- Real-world database design scenarios
+
+---
+
+## 💬 Ask me about
+- SQL & databases
+- Data analysis basics
+- Power BI & Tableau
+- Excel data analysis
+- ERD & Database Mapping
+
+---
+
+## ⚡ Fun fact
+I actually enjoy cleaning messy datasets more than analyzing them 😄
+
+---
+
+## 📫 How to reach me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bilal-abass-503172307">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="https://www.youtube.com/@BilalAbass00">
+    <img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/>
+  </a>
+</p>

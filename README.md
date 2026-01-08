@@ -1,4 +1,7 @@
-![Data Animation](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=26&duration=5000&color=0A66C2&center=true&vCenter=true&width=750&lines=Bilal+Abbas;Computer+Science+Student;Data+Analysis+%26+Visualization+Enthusiast" />
+</p>
+
 
 <h3 align="center">
 Computer Science Student | Data Analysis & Visualization Enthusiast

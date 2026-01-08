@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5500&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&lines=Bilal+Abbas;Computer+Science+Student;Data+Analysis+%26+Visualization" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=26&duration=5000&color=0A66C2&center=true&vCenter=true&width=750&lines=Bilal+Abbas;Computer+Science+Student;Data+Analysis+%26+Visualization+Enthusiast" />
 </p>
+
 
 
 <h3 align="center">

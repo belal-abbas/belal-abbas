@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=26&duration=5000&color=0A66C2&center=true&vCenter=true&width=750&lines=Bilal+Abbas;Computer+Science+Student;Data+Analysis+%26+Visualization+Enthusiast" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.LavaPlayer_V1.1/eGDY10zF9Z5q3K7n6/giphy.gif" alt="Bilal Abbas Animated Banner" />
+</p>
 
 
 

@@ -4,6 +4,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.LavaPlayer_V1.1/eGDY10zF9Z5q3K7n6/giphy.gif" alt="Bilal Abbas Animated Banner" />
 </p>
+# 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=007BFF&background=FFFFFF&center=true&vCenter=true&width=800&height=150&lines=Welcome+to+my+profile!;I'm+Bilal+Abbas;Computer+Science+Student;Data+Analyst;I+use+Python+for+Data+Analysis" alt="Bilal Abbas Banner" />
+  </a>
+</p>
 
 
 
